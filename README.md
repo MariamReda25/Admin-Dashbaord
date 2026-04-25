@@ -59,6 +59,30 @@ This project simulates real-world e-commerce workflows using realistic order and
 
 ---
 
+# 🌍 Project Deployment
+
+The project is deployed and available online.
+
+## 🚀 Deployment Platform
+
+This project is deployed using:
+
+- 🔗 Vercel : https://admin-dashbaord-chi.vercel.app/
+
+- 🔗 Netlify: https://e-commerece-dashboard.netlify.app/
+
+## 🔐 Test with Demo Credentials
+
+You can test the application using the following demo account:
+
+**Email:**  
+mona22@mail.com
+
+**Password:**  
+12345678
+
+---
+
 # ▶️ How to Run
 
 ```bash
@@ -71,7 +95,3 @@ npm install
 npm run dev
 
 ```
-
-# Deployment
-
-[admin dashboard](https://admin-dashbaord-chi.vercel.app/)
