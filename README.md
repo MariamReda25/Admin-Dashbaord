@@ -9,9 +9,7 @@ This project simulates real-world e-commerce workflows using realistic order and
 
 # 📸 Screenshots / Demo
 
-<!-- ![Dashboard](image.png) -->
-
-![Project Demo ](https://drive.google.com/file/d/1spDGpaBCUXcEPmQl8G19pAlfmqbWlTCD/view?usp=sharing)
+[Project Demo ](https://drive.google.com/file/d/1spDGpaBCUXcEPmQl8G19pAlfmqbWlTCD/view?usp=sharing)
 
 ## Dashboard Overview
 
@@ -60,8 +58,6 @@ This project simulates real-world e-commerce workflows using realistic order and
 ---
 
 # ▶️ How to Run
-
-## 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/your-username/ecommerce-admin-dashboard.git
