@@ -9,6 +9,8 @@ This project simulates real-world e-commerce workflows using realistic order and
 
 # 📸 Screenshots / Demo
 
+## Project Demo
+
 [Project Demo ](https://drive.google.com/file/d/1spDGpaBCUXcEPmQl8G19pAlfmqbWlTCD/view?usp=sharing)
 
 ## Dashboard Overview
@@ -69,3 +71,7 @@ npm install
 npm run dev
 
 ```
+
+# Deployment
+
+[admin dashboard](https://admin-dashbaord-chi.vercel.app/)
